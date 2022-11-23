@@ -17,12 +17,20 @@
 <br/>
 
 ❤️ <font color='red'>**빨간색 노드**</font> : 건물 입구 <br/>
-💛 <font color='orange'>**노란색 노드**</font> : 코너
+💛 <font color='orange'>**노란색 노드**</font> : 코너 <br/>
 
-![image](https://user-images.githubusercontent.com/86948867/178370953-a15b3c7b-7646-4a6f-b146-2e8170a46312.png)
-![image](https://user-images.githubusercontent.com/86948867/178370967-7960a11d-e85e-4aa9-866c-990bc2a5cc9a.png)
-![image](https://user-images.githubusercontent.com/86948867/178370978-6275ee83-ce4e-4ea1-b226-2eb35c6eb505.png)
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/86948867/178370953-a15b3c7b-7646-4a6f-b146-2e8170a46312.png' />
+<img src='https://user-images.githubusercontent.com/86948867/178370967-7960a11d-e85e-4aa9-866c-990bc2a5cc9a.png' />
+<img src='https://user-images.githubusercontent.com/86948867/178370978-6275ee83-ce4e-4ea1-b226-2eb35c6eb505.png' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/seul1230/seul1230.github.io/main/assets/img/2021_hackathon_img/final_video.gif' width="50%" />
+</p>
+
 <br/><br/>
+
 
 ### 🏆 프로젝트 결과
 은상
